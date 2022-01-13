@@ -26,3 +26,10 @@ header{
     margin: 0 0 0 10px;
     font-size: 12px;
 }
+
+.dsmovie-profile-img{
+    margin: 0 0 0 10px;
+    height: 24px;
+    width: 24px;
+    border-radius: 50px;
+}

@@ -1,4 +1,5 @@
 import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
+import {ReactComponent as ProfileIcon} from 'assets/img/eu.svg';
 import './style.css';
 
 function Navbar(){
@@ -11,6 +12,8 @@ function Navbar(){
                     <div className="dsmovie-contact-container">
                         <GithubIcon />
                         <p className="dsmovie-contact-link">/deveduardolessa</p>
+                        <ProfileIcon className="dsmovie-profile-img"/>
+                        
                     </div>
                 </a>
             </div>
